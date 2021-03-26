@@ -1,11 +1,12 @@
 body{
   background: url(img/bg.png) no-repeat;
- background-size: 190%;
+  background: #00ff90;
+ background-size: 200%;
 }
 
 .content{
   background: #cacaca;
-  height: 1250px;
+  height: 3400px;
   padding: 10px; 
   border: 2px solid #000;
   font-size: 20px;
